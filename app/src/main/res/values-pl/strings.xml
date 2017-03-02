@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Push To Kindle</string>
     <string name="action_exit">Aby wyjść wciśnij WSTECZ ponownie</string>
+    <string name="action_settings">Ustawienia</string>
 
     <string name="cant_send">Ta strona nie może zostać wysłana na Twoje urządzenie Kindle</string>
     <string name="sent">Strona została wysłana na Twoje urządzenie. Sprawdź Kindle za kilka minut</string>
